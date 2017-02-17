@@ -10,7 +10,7 @@ GDOM is the next generation of web-parsing, powered by GraphQL syntax and the Gr
 # Run
 
 
-    docker run -p 8080:8080 mrVanDalo/gdom
+    docker run -p 8080:8080 palo/gdom
     
 
 now have a look at [localhost](http://localhost:8080/)
